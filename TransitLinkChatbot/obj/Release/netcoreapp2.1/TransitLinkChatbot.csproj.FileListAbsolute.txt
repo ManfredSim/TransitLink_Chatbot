@@ -1,0 +1,16 @@
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\bin\Release\netcoreapp2.1\TransitLinkChatbot.deps.json
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\bin\Release\netcoreapp2.1\TransitLinkChatbot.runtimeconfig.json
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\bin\Release\netcoreapp2.1\TransitLinkChatbot.runtimeconfig.dev.json
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\bin\Release\netcoreapp2.1\TransitLinkChatbot.dll
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\bin\Release\netcoreapp2.1\TransitLinkChatbot.pdb
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.csproj.CoreCompileInputs.cache
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.RazorAssemblyInfo.cache
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.RazorAssemblyInfo.cs
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.AssemblyInfoInputs.cache
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.AssemblyInfo.cs
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.RazorTargetAssemblyInfo.cache
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.dll
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.pdb
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\manfr\Desktop\Manfred NYP\ChatbotProj\TransitLinkChatbot\TransitLinkChatbot\obj\Release\netcoreapp2.1\TransitLinkChatbot.csprojAssemblyReference.cache
